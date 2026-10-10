@@ -1,31 +1,31 @@
-name = input("Mikä on nimesi:")
-age  = int(input("Kuinka vanha olet: "))
-if age <= 12:
-    print("Olet alaikäinen, niin et voi pelata peliä.")
+name = input("Mikä on nimesi: ")
+age = int(input("Kuinka vanha olet: "))
+
+if age < 12:
+    print("Peli on sallittu vain 12 vuotta täyttäneille.")
+
 else:
     print(f"Tervetuloa peliin, {name}!")
 
-while True:
-        print("....GAME MENU....")
-        print("1. aloita peli")
-        print("2. ohjeet")
-        print("3. sulje peli")
+    while True:
+        print("\n.... GAME MENU ....")
+        print("1. Aloita peli")
+        print("2. Ohjeet")
+        print("3. Sulje peli")
 
-        action = int(input("Mitä haluat tehdä? "))
+        action = input("Mitä haluat tehdä? ")
 
-        if action == 1:
-            print("Peli alkaoi. Gl!")
+        if action == "1":
+            print("Peli alkaa. Good luck!")
 
-        elif action == 2:
-            print("ohjeita ei vielä ole.")
+        elif action == "2":
+            print("Ohjeita ei vielä ole.")
 
-        elif action == 3:
+        elif action == "3":
             print("Peli suljetaan.")
             break
 
         else:
-            print("Komentoa ei löydy.")
-            break
+            print("Komentoa ei löydy. Yritä uudelleen.")
 
-print(name)
-print(age)
+    print(f"Kiitos pelaamisesta, {name}!")
