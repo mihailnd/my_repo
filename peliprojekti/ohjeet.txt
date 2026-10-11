@@ -1,0 +1,61 @@
+================================
+Escape From Hylätty Tehdas - OHJEET
+================================
+
+Välkommen!
+------------
+Olet herännyt vanhassa hylätyssä tehtaassa.
+Tutki huoneita, kerää esineitä ja etsi tie ulos.
+Muista myös tehdä ympäristöystävällisiä tekoja samalla kuin läpäiset peliä.
+
+PELIN TAVOITE
+-------------
+Pelin tavoitteena on paeta hylätystä tehtaasta.
+Voit valita kolmesta eri pakoreitistä.
+Jokainen reitti vaatii tietyn esineen.
+
+PÄÄVALIKKO
+----------
+1. Aloita peli
+
+2. Ohjeet
+
+3. Lopeta peli
+
+PELIVALIKKO
+-----------
+1. Tarkista tavarat
+   Näyttää keräämäsi esineet.
+
+2. Kerää esine
+   Kerää tämän hetkisessä huoneessa olevan esineen.
+
+3. Vaihda huonetta
+   Siirry toiseen huoneeseen tehtaalla.
+
+4. Palaa päävalikkoon
+
+5. Yritä paeta
+   Valitse pakoreitti ja yritä päästä ulos HYLÄTYLTÄ TEHTAALTA.
+
+6. Tee ympäristöteko
+   Tee ympäristöystävällinen teko ja saa kestävyyspisteitä. :D
+
+PAKOREITIT
+----------
+1. Pääovi
+   Tarvitset avaimen, jonka löydät toimistosta.
+
+2. Huoltokäytävä
+   Tarvitset taskulampun, jonka löydät tehdashallista.
+
+3. Hätäuloskäynti
+   Tarvitset RK-62:n, jonka löydät leikkihuoneesta.
+
+
+KESTÄVÄ KEHITYS
+---------------
+Voit kierrättää metalliromua, säästää vettä ja
+kutsua ammattilaisia poistamaan vaarallisia materiaaleja.
+
+Onnea matkaan! Älä eksy tehtaalla XD!
