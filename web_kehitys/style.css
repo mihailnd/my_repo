@@ -1,0 +1,31 @@
+
+body {
+    background-color: red;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+    background-color: lightgray;
+}
+
+ul {
+    list-style-type: none;
+}
